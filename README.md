@@ -1,2 +1,5 @@
 # Analysis of the relationship between user satisfaction and effectiveness using drug type as a factor​
-R projects done during my MS HI and MS Data Analytics
+This is our initiative to examine the efficacy and user satisfaction of prescription and over-the-counter medications used to treat prevalent medical illnesses. Patient satisfaction is a crucial element that can impact medication adherence and general health outcomes. By analyzing user ratings, our research aims to provide valuable insights to improve clinical judgment and enhance patient outcomes. Let's explore our findings and the importance of patient satisfaction in the healthcare industry.
+
+The Drug Performance Evaluation Dataset was obtained from Kaggle. It contains drug performance characteristics for different types​
+of drugs used to treat 37 common medical conditions. It has data on user satisfaction and effectiveness collected from patients. The dataset contains drug information, including medical conditions, names, indications, types, reviews, effectiveness, ease of use, and satisfaction.​
